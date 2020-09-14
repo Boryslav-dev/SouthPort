@@ -652,12 +652,13 @@ p.textit {
 }
 
 p.textfoot {
+    position: relative;
     font-size: 115%;
     color: #323536;
     font-weight: 400;
     line-height: 150%;
     width: 900px;
-    margin: 300px 0 0 200px;
+    margin: 300px 0 0 300px;
 }
 
 .about_blok {
